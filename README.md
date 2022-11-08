@@ -25,7 +25,7 @@
  <br>
  
 <div align="center" style="display: inline_block"><br>
-   <h2>Habilidades</h2>
+   <h2>🧠 Habilidades</h2>
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" /> 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
@@ -41,7 +41,7 @@
   
 <br>
 <div align="center">
-   <h2> Contato 📲</h2>
+   <h2>📲 Contato</h2>
    
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-sousa-00193a184/)](https://www.linkedin.com/in/matheus-sousa-00193a184/)    
 </div>   
