@@ -28,16 +28,5 @@
     <img src="https://i.picasion.com/pic92/3ba3110571e814f8d900d908aa1de2a0.gif" width="150" height="150" border="0" alt="https://picasion.com/" />
 </div>
 
-![Snake animation](https://github.com/sousamatheus/SousaMatheus/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-   
- ![Snake animation](https://github.com/sousamatheus/SousaMatheus/blob/output/github-contribution-grid-snake.svg)
-                           
-   
-   
-   
+![Snake animation](https://github.com/sousamatheus/SousaMatheus/blob/output/github-contribution-grid-snake.svg)  
                                  
