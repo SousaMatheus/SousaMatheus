@@ -6,7 +6,7 @@
    
    » Estou estudando Blazor Server 📚
    
-<div align="center">   
+<div>   
   ![SousaMatheus Status](https://github-readme-stats.vercel.app/api?username=sousamatheus&show_icons=true&theme=dracula)
   
   ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sousamatheus&layout=compact&theme=dracula)  
