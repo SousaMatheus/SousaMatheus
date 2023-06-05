@@ -4,7 +4,7 @@
 
    » Trabalho com desenvolvimento C#💻
    
-   » Estou estudando Blazor Server 📚
+   » Estou estudando ASP.NET Core 📚
 
 <div align="center"> 
 
