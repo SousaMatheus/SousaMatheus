@@ -4,7 +4,7 @@
 
    » Trabalho com desenvolvimento C#💻
    
-   » Estou estudando ASP.NET Core 📚
+   » Estou estudando APIs REST com ASP.NET Core 📚
 
 <div align="center"> 
 
