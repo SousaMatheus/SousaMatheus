@@ -4,7 +4,7 @@
 
    » Trabalho com desenvolvimento C#💻
    
-   » Estou estudando APIs REST com ASP.NET Core 📚
+   » Estou estudando o curso de programação do Felipe Dechamps! 😀 📚
 
 <div align="center"> 
 
