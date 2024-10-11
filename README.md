@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Matheus Sousa 
 
-### Desenvolvedor.NET / C# / SQL Server / Blazor Server
+### Desenvolvedor.NET / C# / SQL Server / Blazor WASM|Server
 
    » Trabalho com desenvolvimento C#💻
    
-   » Estou estudando o curso de programação do Felipe Dechamps! 😀 📚
+   » Estou estudando o curso de programação do Felipe Dechamps e Angular! 😀 📚
 
 <div align="center"> 
 
