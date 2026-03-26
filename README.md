@@ -1,13 +1,45 @@
-### Olá! Eu sou o Matheus Sousa 
+# Matheus Sousa · Desenvolvedor Backend Sênior
 
-### Desenvolvedor .NET / C# / SQL Server / ASP.NET Core / Blazor WASM|Server
+> **C# · .NET · ASP.NET Core · SQL Server · Sorocaba, SP**
 
-   » Trabalho com desenvolvimento C#💻
-   
-   » Estou estudando o curso de programação do Felipe Dechamps! 😀 📚
+Desenvolvedor sênior com foco em backend, atuando no ecossistema .NET. Tenho experiência em transformar **lógica de negócio complexa em código limpo e escalável** — especialmente no setor de **esquadrias e construção civil**, onde entendo o negócio além do código.
 
-   » Estou estudando o curso de programação do Balta também! 😀 📚
+Facilidade em conduzir **reuniões com clientes**, levantar requisitos, diagnosticar bugs críticos em produção e entregar soluções que realmente resolvem o problema.
 
+---
+
+## 🛠 Stack principal
+
+**Backend**  
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `REST APIs` · `JWT Auth` · `SQL Server`
+
+**Frontend**  
+`Blazor WASM / Server` · `TypeScript` · `React` · `HTML5` · `CSS3`
+
+**Ferramentas**  
+`Git` · `Docker` · `Visual Studio` · `Postman`
+
+---
+
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [JWTLogin](https://github.com/SousaMatheus/JWTLogin) | Autenticação segura com JWT em ASP.NET Core — estrutura pronta para produção | C# · ASP.NET Core |
+| [RESTful-API-ASP.NET-Core](https://github.com/SousaMatheus/RESTful-API-ASP.NET-Core) | API RESTful com boas práticas de arquitetura | C# · ASP.NET Core |
+| [AppMVC](https://github.com/SousaMatheus/AppMVC) | Aplicação MVC completa com CRUD e autenticação | C# · ASP.NET Core MVC |
+
+---
+
+## 🤝 Como trabalho
+
+- **Levo o problema do cliente a sério.** Antes de codar, entendo o processo, mapeio o requisito real e só então proponho a solução.
+- **Produção não espera.** Tenho histórico de resolver bugs críticos sob pressão com diagnóstico rápido e comunicação clara.
+- **Entendo o negócio.** Com vivência no setor de esquadrias, sei que tecnologia precisa falar a língua de quem usa — não só de quem desenvolve.
+- **Experiência** em sistemas para o setor de esquadrias, incluindo geração de arquivos de corte via XSLT para integração com drivers de máquinas **CNC**.
+
+---
 <div align="center"> 
 
 <br>
@@ -17,9 +49,7 @@
 </div>
    
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sousamatheus&show_icons=true&theme=dracula"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousamatheus&layout=compact&theme=dracula"/>
+ 
    
 ![Snake animation](https://github.com/sousamatheus/SousaMatheus/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)     
 </div>
@@ -52,7 +82,7 @@
   
 <br>
 <div align="center">
-   <h2>📲 Contato</h2>
+   <h2>📫 Contato</h2>
    
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-sousa-00193a184/)](https://www.linkedin.com/in/matheus-sousa-00193a184/)    
 </div>   
@@ -62,3 +92,6 @@
 
                                  
 </div>
+
+
+*Aberto a conversas sobre projetos, oportunidades e desafios técnicos.*
