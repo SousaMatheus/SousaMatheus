@@ -2,7 +2,7 @@
 
 > **C# · .NET · ASP.NET Core · SQL Server · Sorocaba, SP**
 
-Desenvolvedor sênior com foco em backend, atuando no ecossistema .NET. Tenho experiência em transformar **lógica de negócio complexa em código limpo e escalável** — especialmente no setor de **esquadrias e construção civil**, onde entendo o negócio além do código.
+Desenvolvedor sênior com foco em backend, atuando no ecossistema .NET. Tenho experiência em transformar **lógica de negócio complexa em código limpo e escalável** — especialmente no setor de **esquadrias**, onde entendo o negócio além do código.
 
 Facilidade em conduzir **reuniões com clientes**, levantar requisitos, diagnosticar bugs críticos em produção e entregar soluções que realmente resolvem o problema.
 
