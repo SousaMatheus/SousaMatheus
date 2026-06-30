@@ -49,7 +49,6 @@ Estes projetos são estudos e bases públicas. Estou estruturando projetos demon
 - **Levo o problema do cliente a sério.** Antes de codar, entendo o processo, mapeio o requisito real e só então proponho a solução.
 - **Produção não espera.** Tenho histórico de resolver bugs críticos sob pressão com diagnóstico rápido e comunicação clara.
 - **Entendo o negócio.** Com vivência no setor de esquadrias, sei que tecnologia precisa falar a língua de quem usa — não só de quem desenvolve.
-- **Experiência** em sistemas para o setor de esquadrias, incluindo geração de arquivos de corte via XSLT para integração com drivers de máquinas **CNC**.
 
 ---
 
