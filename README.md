@@ -10,6 +10,8 @@ Facilidade em conduzir **reuniões com clientes**, levantar requisitos, diagnost
 
 ## 🚀 No que eu trabalho de verdade
 
+Parte relevante da minha atuação profissional acontece em repositórios privados corporativos. Por isso, este perfil público reúne projetos demonstrativos, estudos arquiteturais e exemplos técnicos baseados nos problemas que resolvo em produção.
+
 - **Integrações ERP** — implementei integrações com **4 ERPs/sistemas distintos** — FoccoERP, BI Esaf, CIGAM e W Vetro — via XML, REST e webhooks, mantendo SQL, serialização e regra de negócio alinhados nas três camadas.
 - **Integração com CNC** — geração de arquivos de corte e usinagem via **XSLT** para drivers de máquinas, conectando o sistema comercial ao chão de fábrica.
 - **Sistemas em produção** — manutenção e evolução de sistema legado em três camadas (UI → Business → Data Access), .NET Framework e SQL Server.
@@ -30,7 +32,9 @@ Facilidade em conduzir **reuniões com clientes**, levantar requisitos, diagnost
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos públicos atuais
+
+Estes projetos são estudos e bases públicas. Estou estruturando projetos demonstrativos mais próximos da minha atuação profissional com ERP, CNC e integrações.
 
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -53,10 +57,8 @@ Facilidade em conduzir **reuniões com clientes**, levantar requisitos, diagnost
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SousaMatheus&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Snake animation](https://github.com/SousaMatheus/SousaMatheus/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SousaMatheus&layout=compact&theme=github_dark&hide_border=true)
-
-![Snake animation](https://github.com/sousamatheus/SousaMatheus/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </div>
 
@@ -82,10 +84,6 @@ Facilidade em conduzir **reuniões com clientes**, levantar requisitos, diagnost
 <div align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sousa-00193a184/)
-
-<a href="https://picasion.com/">
-  <img src="https://i.picasion.com/pic92/3ba3110571e814f8d900d908aa1de2a0.gif" width="150" height="150" border="0" alt="" />
-</a>
 
 </div>
 
