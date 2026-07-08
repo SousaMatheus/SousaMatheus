@@ -41,6 +41,7 @@ Estes projetos são estudos e bases públicas. Estou estruturando projetos demon
 | [JWTLogin](https://github.com/SousaMatheus/JWTLogin) | Autenticação segura com JWT em ASP.NET Core — estrutura pronta para produção | C# · ASP.NET Core |
 | [RESTful-API-ASP.NET-Core](https://github.com/SousaMatheus/RESTful-API-ASP.NET-Core) | API RESTful com boas práticas de arquitetura | C# · ASP.NET Core |
 | [AppMVC](https://github.com/SousaMatheus/AppMVC) | Aplicação MVC completa com CRUD e autenticação | C# · ASP.NET Core MVC |
+| [PaymentContext](https://github.com/SousaMatheus/PaymentContext) | Modelagem de domínio rico com DDD, CQRS e Notification Pattern e testes de unidade | C# · Flunt ·MSTest
 
 ---
 
