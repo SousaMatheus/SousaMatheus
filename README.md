@@ -2,20 +2,20 @@
 
 > **C# · .NET · ASP.NET Core · SQL Server · Sorocaba, SP**
 
-Desenvolvedor sênior com foco em backend, atuando no ecossistema .NET. Tenho experiência em transformar **lógica de negócio complexa em código limpo e escalável** — especialmente no setor de **esquadrias**, onde entendo o negócio além do código.
+Desenvolvedor sênior com foco em backend, atuando no ecossistema .NET. Tenho experiência em transformar **lógica de negócio complexa em código limpo** — especialmente no setor de **esquadrias**, onde entendo o negócio além do código.
 
-Facilidade em conduzir **reuniões com clientes**, levantar requisitos, diagnosticar bugs críticos em produção e entregar soluções que realmente resolvem o problema.
+Atuo diretamente em **reuniões com clientes**, levantamento de requisitos e definição de soluções.
 
 ---
 
-## 🚀 No que eu trabalho de verdade
+## 🚀 Experiência prática
 
-Parte relevante da minha atuação profissional acontece em repositórios privados corporativos. Por isso, este perfil público reúne projetos demonstrativos, estudos arquiteturais e exemplos técnicos baseados nos problemas que resolvo em produção.
+Grande parte da minha atuação profissional acontece em repositórios corporativos privados. Por isso, este perfil reúne projetos públicos, estudos e exemplos técnicos relacionados aos problemas que encontro no dia a dia.
 
-- **Integrações ERP** — implementei integrações com **4 ERPs/sistemas distintos** — FoccoERP, BI Esaf, CIGAM e W Vetro — via XML, REST e webhooks, mantendo SQL, serialização e regra de negócio alinhados nas três camadas.
+- **Integrações ERP** — experiência com integrações via XML, API REST e webhooks, envolvendo sistemas como FoccoERP, CIGAM, ESAF e outros parceiros.
 - **Integração com CNC** — geração de arquivos de corte e usinagem via **XSLT** para drivers de máquinas, conectando o sistema comercial ao chão de fábrica.
 - **Sistemas em produção** — manutenção e evolução de sistema legado em três camadas (UI → Business → Data Access), .NET Framework e SQL Server.
-- **Diagnóstico em produção** — investigação de falhas críticas (timeouts, integrações que quebram) com correção pontual e segura, sem efeitos colaterais no legado.
+- **Diagnóstico em produção** — investigação e correção de problemas críticos em produção, como falhas de integração e timeouts, buscando soluções seguras e com baixo impacto.
 
 ---
 
@@ -25,7 +25,7 @@ Parte relevante da minha atuação profissional acontece em repositórios privad
 `C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `REST APIs` · `JWT Auth` · `SQL Server`
 
 **Frontend**  
-`Blazor` · `TypeScript` · `React`
+`Blazor` · 
 
 **Ferramentas**  
 `Git` · `Docker` · `Visual Studio` · `Postman`
@@ -34,22 +34,19 @@ Parte relevante da minha atuação profissional acontece em repositórios privad
 
 ## 📌 Projetos públicos atuais
 
-Estes projetos são estudos e bases públicas. Estou estruturando projetos demonstrativos mais próximos da minha atuação profissional com ERP, CNC e integrações.
-
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [JWTLogin](https://github.com/SousaMatheus/JWTLogin) | Autenticação segura com JWT em ASP.NET Core — estrutura pronta para produção | C# · ASP.NET Core |
+| [JWTLogin](https://github.com/SousaMatheus/JWTLogin) | Autenticação segura com JWT em ASP.NET Core | C# · ASP.NET Core |
 | [RESTful-API-ASP.NET-Core](https://github.com/SousaMatheus/RESTful-API-ASP.NET-Core) | API RESTful com boas práticas de arquitetura | C# · ASP.NET Core |
 | [AppMVC](https://github.com/SousaMatheus/AppMVC) | Aplicação MVC completa com CRUD e autenticação | C# · ASP.NET Core MVC |
-| [PaymentContext](https://github.com/SousaMatheus/PaymentContext) | Modelagem de domínio rico com DDD, CQRS e Notification Pattern e testes de unidade | C# · Flunt ·MSTest
+| [PaymentContext](https://github.com/SousaMatheus/PaymentContext) | Estudos de domínio rico com DDD, CQRS e Notification Pattern e testes de unidade | C# · Flunt ·MSTest
 
 ---
 
 ## 🤝 Como trabalho
 
-- **Levo o problema do cliente a sério.** Antes de codar, entendo o processo, mapeio o requisito real e só então proponho a solução.
+- **Entendo o negócio.** Procuro entender o problema antes de codificar, considerando o processo e a necessidade real do usuário. Valorizo código organizado, comunicação clara, aprendizado contínuo e soluções que façam sentido tanto tecnicamente quanto para o negócio.
 - **Produção não espera.** Tenho histórico de resolver bugs críticos sob pressão com diagnóstico rápido e comunicação clara.
-- **Entendo o negócio.** Com vivência no setor de esquadrias, sei que tecnologia precisa falar a língua de quem usa — não só de quem desenvolve.
 
 ---
 
@@ -71,11 +68,8 @@ Estes projetos são estudos e bases públicas. Estou estruturando projetos demon
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" />
 
 </div>
 
