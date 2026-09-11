@@ -1,8 +1,8 @@
-# Matheus Sousa · Desenvolvedor Backend Sênior
+# Matheus Sousa · Desenvolvedor Sênior
 
 > **C# · .NET · ASP.NET Core · SQL Server · Sorocaba, SP**
 
-Desenvolvedor sênior com foco em backend, atuando no ecossistema .NET. Tenho experiência em transformar **lógica de negócio complexa em código limpo** — especialmente no setor de **esquadrias**, onde entendo o negócio além do código.
+Trabalho com desenvolvimento backend em C# e .NET, principalmente com integrações de sistemas para a indústria de esquadrias. Comecei no suporte técnico e hoje participo do desenvolvimento e da sustentação das soluções em produção.
 
 Atuo diretamente em **reuniões com clientes**, levantamento de requisitos e definição de soluções.
 
@@ -28,25 +28,28 @@ Grande parte da minha atuação profissional acontece em repositórios corporati
 `Blazor` · 
 
 **Ferramentas**  
-`Git` · `Docker` · `Visual Studio` · `Postman`
+`Git` · `Visual Studio` · `Postman`
+
+**Em estudo**  
+Docker · CI/CD · CQRS · Inglês
 
 ---
 
-## 📌 Projetos públicos atuais
+## 📌 Projetos públicos e estudos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [JWTLogin](https://github.com/SousaMatheus/JWTLogin) | Autenticação segura com JWT em ASP.NET Core | C# · ASP.NET Core |
-| [RESTful-API-ASP.NET-Core](https://github.com/SousaMatheus/RESTful-API-ASP.NET-Core) | API RESTful com boas práticas de arquitetura | C# · ASP.NET Core |
-| [AppMVC](https://github.com/SousaMatheus/AppMVC) | Aplicação MVC completa com CRUD e autenticação | C# · ASP.NET Core MVC |
-| [PaymentContext](https://github.com/SousaMatheus/PaymentContext) | Estudos de domínio rico com DDD, CQRS e Notification Pattern e testes de unidade | C# · Flunt ·MSTest
+| [JWTLogin](https://github.com/SousaMatheus/JWTLogin) | Estudo de cadastro e autenticação JWT, em desenvolvimento | C# · ASP.NET Core |
+| [RESTful-API-ASP.NET-Core](https://github.com/SousaMatheus/RESTful-API-ASP.NET-Core) | API de fornecedores com ASP.NET Core, EF Core e SQL Server | C# · ASP.NET Core |
+| [AppMVC](https://github.com/SousaMatheus/AppMVC) | Cadastro de fornecedores e produtos com ASP.NET Core MVC e Identity | C# · ASP.NET Core MVC |
+| [PaymentContext](https://github.com/SousaMatheus/PaymentContext) | Estudo de domínio de assinaturas e pagamentos, com testes de unidade | C# · Flunt · MSTest |
 
 ---
 
 ## 🤝 Como trabalho
 
-- **Entendo o negócio.** Procuro entender o problema antes de codificar, considerando o processo e a necessidade real do usuário. Valorizo código organizado, comunicação clara, aprendizado contínuo e soluções que façam sentido tanto tecnicamente quanto para o negócio.
-- **Produção não espera.** Tenho histórico de resolver bugs críticos sob pressão com diagnóstico rápido e comunicação clara.
+- Procuro entender o problema e a rotina de quem usa o sistema antes de começar a implementação. Valorizo código organizado, comunicação clara e soluções simples.
+- Na sustentação, investigo a causa das falhas e mantenho os envolvidos informados sobre o diagnóstico e a correção.
 
 ---
 
